@@ -1,0 +1,12 @@
+.nametag
+{
+    display: flex;
+    flex-direction: row;
+    font-size: 500px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }

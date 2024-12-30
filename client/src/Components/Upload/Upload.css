@@ -1,0 +1,15 @@
+
+.uploadContainer
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.UploadBtn .uploadBtn .removeBtn
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,0 +1,33 @@
+body
+{
+   min-height: 100vh;
+}
+
+
+.LoginPageContainer
+{
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;  
+  
+
+}
+
+
+.formContainer
+{
+  
+   width: 60vw;
+   text-align: center;
+   margin-top: 5em;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   margin-bottom: 2rem;
+}
+
+.donthaveanaccount
+{
+   margin-top: 2em;
+}
